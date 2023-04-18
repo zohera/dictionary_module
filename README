@@ -1,0 +1,3 @@
+A custom Drupal module to display the definition of any given word.
+• Fetch the definitions from the following API: https://dictionaryapi.dev/
+• Display subsequent word definitions without refreshing the full page

@@ -1,0 +1,7 @@
+dictionary_module.form:
+    path: '/admin/dictionary_module'
+    defaults:
+      _form: 'Drupal\dictionary_module\Form\DictionaryModuleForm'
+      _title: 'Dictionary Module'
+    requirements:
+       _permission: 'access administration pages'
